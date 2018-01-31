@@ -1,8 +1,8 @@
 <?php
-namespace Gravy\SpriteMapper;
+namespace SCG\SpriteMapper;
 
-use Gravy\SpriteMapper\Sprite;
-use Gravy\SpriteMapper\Spritepacker;
+use SCG\SpriteMapper\Sprite;
+use SCG\SpriteMapper\Spritepacker;
 
 class SpriteMapper
 {
