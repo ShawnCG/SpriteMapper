@@ -1,5 +1,5 @@
 <?php
-namespace Gravy\SpriteMapper;
+namespace SCG\SpriteMapper;
 
 class Sprite
 {
