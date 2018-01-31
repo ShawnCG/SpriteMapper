@@ -1,5 +1,5 @@
 <?php
- namespace Gravy\SpriteMapper;
+ namespace SCG\SpriteMapper;
 // Growing Bin Packer algorithm for positioning icons in a spritesheet
 // using space as efficiently as possible.
 //
